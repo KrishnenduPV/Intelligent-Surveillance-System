@@ -1,0 +1,20 @@
+CROWD DENSITY ANALYSIS REPORT
+=============================
+
+Video: tmp0p4wadla.mp4
+Analysis Time: 2025-06-21 13:39:55
+
+Total Frames: 609
+Processed Frames: 121
+
+Average Crowd Count: 1.6
+Maximum Count: 2.7
+Minimum Count: 1.0
+
+Density Level Distribution:
+- HIGH density: 0 frames (0.0%)
+- MEDIUM density: 0 frames (0.0%)
+- LOW density: 121 frames (100.0%)
+
+Video Output Status: Success
+Output video: output\crowd_analysis_output.mp4

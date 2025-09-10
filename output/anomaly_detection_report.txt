@@ -1,0 +1,12 @@
+ANOMALY DETECTION REPORT
+=======================
+
+Video: tmpzut4usfz.mp4
+Date: 2025-05-26 20:19:47
+
+Result: Abnormal
+Confidence Score: 0.7005
+Threshold: 0.62
+
+WARNING: Abnormal behaviour detected.
+Recommend security review of the footage.

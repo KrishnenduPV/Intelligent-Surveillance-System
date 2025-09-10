@@ -1,0 +1,11 @@
+# Ignore model weights
+models/PartAmodel_best.pth
+models/best_model.pth
+
+# Ignore all .pth files (optional)
+*.pth
+
+# Common ignore patterns
+__pycache__/
+.vscode/
+*.log
