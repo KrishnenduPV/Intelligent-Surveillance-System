@@ -2,7 +2,7 @@ Perceptra – Intelligent Surveillance System
 
 
 # Perceptra – Intelligent Surveillance System
-### AI-Powered Real-Time Abnormal Behaviour Detection & Crowd Density Monitoring
+### AI-Powered Abnormal Behaviour Detection & Crowd Density Monitoring
 
 Perceptra is an AI-powered surveillance system designed to detect and predict abnormal crowd behaviours. It uses deep learning models to analyze video feeds and identify unusual activities such as sudden crowd density changes, aggressive movements, or unauthorized gatherings. This system helps improve public safety in crowded environments such as airports, malls, stadiums, transportation hubs, and large public gatherings.
 
