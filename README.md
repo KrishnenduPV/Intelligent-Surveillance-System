@@ -132,5 +132,8 @@ streamlit run streamlit_app/app.py
 
 ---
 
+### Main Homepage/ Dashboard UI
+![Main Homepage/ Dashboard UI](output/Results_Screenshots/UI Design -Homepage.png)
+
 
 
