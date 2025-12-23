@@ -132,9 +132,6 @@ streamlit run streamlit_app/app.py
 
 ---
 
-### Main Homepage/ Dashboard UI
-![Main Homepage/ Dashboard UI](Intelligent-Surveillance-System/output/Results_Screenshots
-/ui_design_homepage.png)
 
 
 
