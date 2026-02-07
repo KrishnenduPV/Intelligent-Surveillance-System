@@ -110,7 +110,8 @@ streamlit run streamlit_app/app.py
 | Recall | 90.00% |
 | F1-Score |  89.36% |
 
-### Model predictions, visual outputs, and sample results generated during evaluation are saved in the `output/` directory of the repository.
+#### The `output/` folder contains all project outputs, such as UI and dashboard screenshots, demo videos of the system, and the generated reports and results.
+
 
 
 
