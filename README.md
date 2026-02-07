@@ -110,6 +110,8 @@ streamlit run streamlit_app/app.py
 | Recall | 90.00% |
 | F1-Score |  89.36% |
 
+### Model predictions, visual outputs, and sample results generated during evaluation are saved in the `output/` directory of the repository.
+
 
 
 ---
@@ -134,7 +136,7 @@ streamlit run streamlit_app/app.py
 
 ---
 
-Model predictions, visual outputs, and sample results generated during evaluation are saved in the `output/` directory of the repository.
+
 
 
 
